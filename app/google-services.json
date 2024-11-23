@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59183640519",
+    "project_id": "chatgram-backend",
+    "storage_bucket": "chatgram-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59183640519:android:ea9652d079b892a30eb3e2",
+        "android_client_info": {
+          "package_name": "com.example.chatgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6f14DoecZqiNe6TNfzXgChsXJfsBsNmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
